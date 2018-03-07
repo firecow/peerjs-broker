@@ -1,0 +1,29 @@
+{
+  "name": "peerjs-broker",
+  "version": "1.0.0",
+  "description": "Creates a PeerJS Broker on given port. Remember to open firewall.",
+  "main": "index.js",
+  "dependencies": {
+    "peer": "^0.2.8"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "start": "peerjs -p 9000"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/firecow/peerjs-broker.git"
+  },
+  "keywords": [
+    "PeerJS",
+    "Broker",
+    "PeerJS",
+    "Broker"
+  ],
+  "author": "Mads Jon Nielsen <madsjon@gmail.com>",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/firecow/peerjs-broker/issues"
+  },
+  "homepage": "https://github.com/firecow/peerjs-broker#readme"
+}
